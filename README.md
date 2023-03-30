@@ -1,2 +1,2 @@
-# ☀️🌤⛈❄️ A weather web application using Html, Css, Javascript, Weathermap Api
+A weather web application using Html, Css, Javascript, Weathermap Api
 
